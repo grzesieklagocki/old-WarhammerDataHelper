@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28711.60
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WHDataHelper", "WHDataHelper\WHDataHelper.csproj", "{9022BBC8-B483-4998-93A8-FB0157A86B8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9022BBC8-B483-4998-93A8-FB0157A86B8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9022BBC8-B483-4998-93A8-FB0157A86B8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9022BBC8-B483-4998-93A8-FB0157A86B8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9022BBC8-B483-4998-93A8-FB0157A86B8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4754961-21DF-4F4F-B542-C28F6C560A34}
+	EndGlobalSection
+EndGlobal
